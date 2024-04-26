@@ -1044,6 +1044,7 @@ body * {
     text-align: center;
     font-size: 1vw;
     font-weight: 100;
+    font-family: monospace;
 }
 
 /* ANIMATIONS */
