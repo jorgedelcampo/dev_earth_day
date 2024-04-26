@@ -79,7 +79,6 @@ body * {
     overflow: hidden;
     filter: blur(0);
     aspect-ratio: 2.39 / 1; /* Cinema widescreen ratio */
-    background: white;
     transform-origin: 53vw 29vw;
     animation: opacity 2s 1 linear forwards, body .25s 5.25s linear 1 forwards;
 }
@@ -88,6 +87,7 @@ body * {
     height: 100%;
     position: absolute;
     top: 0;
+    background: white;
     filter: blur(0);
     transform-origin: 53vw 29vw;
     animation: rumble .25s 5.25s ease-in-out 1 forwards, zoomin .5s 33.5s ease-in-out 1 forwards, opacity 0s 34.5s linear 1 reverse forwards, zoomout .5s 35s ease-in-out 1 forwards;
