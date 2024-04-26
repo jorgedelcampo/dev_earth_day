@@ -111,9 +111,6 @@ body * {
     width: 100vw;
     height: 12vw;;
 }
-.mountains-back {
-    filter: blur(.2vw);
-}
 .mountains-back, .mountains-front {
     flex-wrap: nowrap;
     display: flex;
@@ -515,7 +512,7 @@ body * {
 }
 .river .water {
     width: 5vw;
-    height: 8vw;
+    height: 6.5vw;
     position: absolute;
     top: 5.6vw;
     left: 10vw;
@@ -881,7 +878,7 @@ body * {
     background: #000000;
     width: 1.5vw;
     aspect-ratio: 16 / 9;
-    top: 40.1vw;
+    top: 34.1vw;
     left: 20.4vw;
     border-radius: 50%;
     filter: blur(.1vw);
@@ -1360,7 +1357,7 @@ body * {
         transform: translate(0, 0);
     }
     100%{
-        transform: translate(24vw, 35vw);
+        transform: translate(18vw, 35vw);
     }
 }
 
