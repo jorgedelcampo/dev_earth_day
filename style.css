@@ -1,5 +1,5 @@
 :root {
-    /* SVG ILLUSTRAIONS */
+    /* SVG ILLUSTRATIONS */
     --truck: url("data:image/svg+xml,%3Csvg width='54.617516' height='31.999973' viewBox='0 0 24.450885 8.4666596' version='1.1' id='svg1' xmlns='http://www.w3.org/2000/svg' xmlns:svg='http://www.w3.org/2000/svg'%3E%3Cdefs id='defs1' /%3E%3Cellipse ry='2' rx='3' id='svg_1' cy='1' cx='6' fill='%236bef38'  /%3E%3Cpath style='fill:%23423427;fill-opacity:1;stroke:none;stroke-width:0.0647647;stroke-dasharray:none;stroke-opacity:1' d='m 0.28312034,2.16563 0.17173,0.88726 1.08766996,0.77278 2.40431,0.85864 1.43114,0.74415 2.66191,0.68692 0.40072,-1.88901 z' id='path65' /%3E%3Cpath style='fill:%2370777f;fill-opacity:1;stroke:none;stroke-width:0.0647647;stroke-dasharray:none;stroke-opacity:1' d='M 12.676056,3.46613 12.676766,2.69512 11.87533,1.04939 H 10.44419 L 9.7572503,2.07976 V 3.4287 Z' id='path64' /%3E%3Cpath id='rect62' style='fill:%2370777f;fill-opacity:1;stroke-width:0.120149' d='M 12.581808,3.46131 H 9.7696303 v 2.9649 h 3.7767777 l -0.007,-1.7043 z' /%3E%3Cpath style='fill:%23b48857;fill-opacity:1;stroke:none;stroke-width:0.0647647;stroke-dasharray:none;stroke-opacity:1' d='m 9.3505703,5.7172 -4.57409,-0.9512 0.26311,2.87385 4.20978,-0.62739 z' id='path62' /%3E%3Ccircle style='fill:%23232429;fill-opacity:1;stroke:none;stroke-width:0.0259267;stroke-dasharray:none;stroke-opacity:1' id='path51' cx='-11.099621' cy='6.3499928' r='2.1166666' transform='scale(-1,1)' /%3E%3Ccircle style='fill:%23232429;fill-opacity:1;stroke:none;stroke-width:0.0259267;stroke-dasharray:none;stroke-opacity:1' id='path51' cx='-11.099621' cy='6.3499928' r='2.1166666' transform='scale(-1,1)'  /%3E%3Ccircle style='fill:%23b48857;fill-opacity:1;stroke:none;stroke-width:0.0241905;stroke-dasharray:none;stroke-opacity:1' id='path52' cx='-11.099621' cy='6.3499928' r='1.0583333' transform='scale(-1,1)' /%3E%3Ccircle style='fill:%23232429;fill-opacity:1;stroke:none;stroke-width:0.0259267;stroke-dasharray:none;stroke-opacity:1' id='circle5' cx='-4.1258121' cy='6.3499928' r='2.1166666' transform='scale(-1,1)' /%3E%3Ccircle style='fill:%23b48857;fill-opacity:1;stroke:none;stroke-width:0.0241905;stroke-dasharray:none;stroke-opacity:1' id='circle6' cx='-4.1258121' cy='6.3499928' r='1.0583333' transform='scale(-1,1)' /%3E%3Cpath style='fill:%239b692f;fill-opacity:1;stroke:none;stroke-width:0.0647647;stroke-dasharray:none;stroke-opacity:1' d='M 14.450885,0.55641 H 10.72685 L 9.6786603,1.16155 8.6219603,4.30051 8.2778903,4.5029 3.3554528e-7,2.2362 0.06070034,1.77071 2.6108603,0.71832 h 6.31467 l 0.946,-0.54615 H 13.560343 L 13.732523,0 13.900451,0.045 Z' id='path55' /%3E%3Cpath style='fill:%23b48857;fill-opacity:1;stroke:none;stroke-width:0.0647647;stroke-dasharray:none;stroke-opacity:1' d='m 9.3303303,1.22428 h -2.81327 l -0.85005,2.04408 2.67159,0.74881 z' id='path56' /%3E%3Cpath style='fill:%23b48857;fill-opacity:1;stroke:none;stroke-width:0.0647647;stroke-dasharray:none;stroke-opacity:1' d='m 6.0920403,1.22428 -0.78934,1.96312 -3.09662,-0.80953 0.51611,-1.15359 z' id='path57' /%3E%3Cpath style='fill:%23b48857;fill-opacity:1;stroke:none;stroke-width:0.0647647;stroke-dasharray:none;stroke-opacity:1' d='M 2.4299403,1.23613 1.9178203,2.30775 0.67259034,2.01603 Z' id='path58' /%3E%3Cpath style='fill:%23b48857;fill-opacity:1;stroke:none;stroke-width:0.0647647;stroke-dasharray:none;stroke-opacity:1' d='M 10.17228,3.43928 V 2.07976 l 0.37209,-0.71553 h 1.23078 l 0.543833,1.35951 V 3.4679 Z' id='path59' /%3E%3Cpath style='fill:%23232429;fill-opacity:1;stroke:none;stroke-width:0.0647647;stroke-dasharray:none;stroke-opacity:1' d='m 10.3297,2.60926 h 1.37389 L 12.16156,2.80961 12.11866,2.5377 11.83244,1.87941 H 10.5301 l -0.22898,0.50088 z' id='path60' /%3E%3Crect style='fill:%239b692f;fill-opacity:1;stroke:none;stroke-width:0.0886146;stroke-dasharray:none;stroke-opacity:1' id='rect60' width='4.0102448' height='0.81746674' x='-13.546409' y='3.1745317' transform='scale(-1,1)' /%3E%3C/svg%3E%0A");
 
     --drill: url("data:image/svg+xml,%3Csvg width='60.000011' height='35.869553' viewBox='0 0 15.875004 9.4904857' version='1.1' id='svg1' xml:space='preserve' xmlns='http://www.w3.org/2000/svg' xmlns:svg='http://www.w3.org/2000/svg'%3E%3Cstyle id='style24'%3E.left_hand %7B %7D&%2310;%3C/style%3E%3Cdefs id='defs1' /%3E%3Cpath id='path36' style='display:inline;fill:%23381f15;fill-opacity:1;stroke:none;stroke-width:0.0485644;stroke-dasharray:none;stroke-opacity:1' d='m 11.729691,0 -0.0939,0.201229 0.174386,1.6901729 -0.144981,0.8418133 0.872308,1.7873491 0.949424,0.4828925 2.118478,2.1739199 0.269238,-0.054493 C 15.914885,2.6559818 12.561356,0.48289252 12.561356,0.48289252 l -0.193213,0.004075 z m 0.645802,0.74240885 0.991207,0.90583935 -0.559629,0.175476 -0.678193,-0.099595 -0.0332,-0.87264054 z m 1.406565,1.35690885 c 0,0 0.549993,0.6707003 0.791447,1.180437 l -0.932303,0.288398 -0.462785,-0.9590992 z m 1.053002,1.6633296 c 0,0 0.623757,1.5493549 0.637171,2.5084633 l -0.254868,0.073795 -1.569474,-1.5560509 0.167699,-0.2481812 0.181073,-0.26829 z' /%3E%3Crect style='fill:%232c2223;fill-opacity:1;stroke:none;stroke-width:0.0446414;stroke-dasharray:none;stroke-opacity:1' id='rect39' width='1.7170094' height='13.548278' x='7.2428908' y='-10.343242' rx='0' ry='0' transform='rotate(66.130234)' /%3E%3Crect style='fill:%23382b2f;fill-opacity:1;stroke:%231d1216;stroke-width:0.0242821;stroke-dasharray:none;stroke-opacity:1' id='rect41' width='1.6593083' height='0.4024238' x='7.2717414' y='-10.048129' rx='0' ry='0' transform='rotate(66.130234)' /%3E%3Crect style='fill:%23632018;fill-opacity:1;stroke:none;stroke-width:0.00613793;stroke-dasharray:none;stroke-opacity:1' id='rect40' width='1.2609289' height='0.34876725' x='7.4709315' y='-10.343242' rx='0' ry='0' transform='rotate(66.130234)' /%3E%3Crect style='fill:%23382b2f;fill-opacity:1;stroke:%231d1216;stroke-width:0.033471;stroke-dasharray:none;stroke-opacity:1' id='rect42' width='3.2026803' height='0.39614862' x='5.1874847' y='7.9044909' rx='0' ry='0' transform='rotate(-23.869766)' /%3E%3Crect style='fill:%23382b2f;fill-opacity:1;stroke:%231d1216;stroke-width:0.033471;stroke-dasharray:none;stroke-opacity:1' id='rect43' width='3.2026803' height='0.39614862' x='5.1874847' y='8.3096714' rx='0' ry='0' transform='rotate(-23.869766)' /%3E%3Crect style='fill:%23382b2f;fill-opacity:1;stroke:%231d1216;stroke-width:0.0265442;stroke-dasharray:none;stroke-opacity:1' id='rect44' width='0.34118077' height='0.80873513' x='8.4009829' y='7.900259' rx='0' ry='0' transform='rotate(-23.869766)' /%3E%3Crect style='fill:%23382b2f;fill-opacity:1;stroke:%231d1216;stroke-width:0.0265442;stroke-dasharray:none;stroke-opacity:1' id='rect45' width='0.34118077' height='0.80873513' x='4.8312731' y='7.900259' rx='0' ry='0' transform='rotate(-23.869766)' /%3E%3Crect style='fill:%23382b2f;fill-opacity:1;stroke:%231d1216;stroke-width:0.050092;stroke-dasharray:none;stroke-opacity:1' id='rect46' width='0.63957226' height='1.5363789' x='2.1870458' y='7.3332095' rx='0' ry='0' transform='rotate(-23.869766)' /%3E%3Crect style='fill:%23382b2f;fill-opacity:1;stroke:%231d1216;stroke-width:0.0608594;stroke-dasharray:none;stroke-opacity:1' id='rect47' width='0.95074403' height='1.5256114' x='-3.1746039' y='7.3385925' rx='0' ry='0' transform='rotate(-23.869766)' /%3E%3Cpath style='fill:%23382b2f;fill-opacity:1;stroke:%231d1216;stroke-width:4.2896;stroke-dasharray:none;stroke-opacity:1' id='path49' d='m 1600.0883,1295.1483 -51.6687,13.8446 -37.8241,-37.8241 13.8445,-51.6687 51.6687,-13.8446 37.8242,37.8241 z' transform='matrix(0.00458132,0.01035308,-0.01035308,0.00458132,9.8873908,-14.857493)' /%3E%3C/svg%3E");
@@ -53,27 +53,15 @@
     --skin-color: #ffefd5;
 }
 
-/* Animation optimized for 16:9 (landscape) experience */
-/* All element sizes based on vw units (including texts) to keep consistence when screen is resized */
-
-html {
-    margin: 0;
-    width: 100vw;
-    aspect-ratio: 16/9;
-    max-height: 100%;
-    overflow: hidden;
-}
 body {
     margin: 0;
     width: 100vw;
-    max-height: 100%;
+    height: 100vh;
+    background: black;
     overflow: hidden;
     display: flex;
     justify-content: center;
     align-items: center;
-    aspect-ratio: 16/9;
-    filter: brightness(0);
-    animation: dawn 2s 1 linear forwards, body .25s 5.25s linear 1 forwards;
 }
 
 body * {
@@ -83,14 +71,25 @@ body * {
     width: 100vw;
     max-height: 100%;
     position: absolute;
-    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     overflow: hidden;
     filter: blur(0);
-    aspect-ratio: 16/9;
+    aspect-ratio: 2.39 / 1; /* Cinema widescreen ratio */
+    background: white;
     transform-origin: 53vw 29vw;
-    animation: canva .25s 5.25s ease-in-out 1 forwards, zoomin .5s 33.5s ease-in-out 1 forwards, opacity 0s 34.5s linear 1 reverse forwards, zoomout .5s 35s ease-in-out 1 forwards;
+    animation: opacity 2s 1 linear forwards, body .25s 5.25s linear 1 forwards;
 }
-/* All .nature elements turn into grayscale on second 15 */
+.landscape {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    filter: blur(0);
+    transform-origin: 53vw 29vw;
+    animation: rumble .25s 5.25s ease-in-out 1 forwards, zoomin .5s 33.5s ease-in-out 1 forwards, opacity 0s 34.5s linear 1 reverse forwards, zoomout .5s 35s ease-in-out 1 forwards;
+}
 .nature {
     animation: gray 3s linear 15s 1 forwards;
 }
@@ -107,11 +106,10 @@ body * {
     animation: sky 2s 8s 1 linear forwards;
 }
 .mountains {
-    top: 12vw;
+    top: 7vw;
     left: 0;
     width: 100vw;
     height: 12vw;;
-    z-index: -2;
 }
 .mountains-back {
     filter: blur(.2vw);
@@ -128,9 +126,9 @@ body * {
 .mountains-back div {
     width: 0;
     height: 0;
-    border-left: 12vw solid transparent;
-    border-right: 12vw solid transparent;
-    border-bottom: 12vw solid #badfd6;
+    border-left: 18vw solid transparent;
+    border-right: 18vw solid transparent;
+    border-bottom: 10vw solid #badfd6;
     margin-left: -13vw;
     position: relative;
 }
@@ -149,13 +147,13 @@ body * {
 }
 .vegetation {
     flex-wrap: nowrap;
-    height: 8%;
-    width: 100%;
+    height: 8vw;
+    width: 100vw;
+    top: 11vw;
     display: flex;
     overflow: hidden;
     justify-content: center;
     align-items: flex-start;
-    top: 16vw;
     transform: translateY(7.5vw);
 }
 .vegetation div {
@@ -167,27 +165,14 @@ body * {
 }
 .grass {
     width: 100%;
-    height: 32vw;
-    background: #9cdb82 repeat center center;
+    height: 22vw;
+    top: 20vw;
+    background: linear-gradient(180deg, #9cdb82 75%, #9cdb82A0);
     position: absolute;
-    top: 26vw;
-    z-index: 0;
-}
-.grass::before {
-    content: '';
-    background: #9cdb82 var(--grass) repeat center center;
-    background-blend-mode: multiply;
-    background-size: .5% 1%;
-    display: block;
-    width: 100%;
-    height: 100%;
-    filter: blur(.1vw);
-    opacity: 1;
-    animation: opacity 1 2s 12s reverse linear forwards;
 }
 .animals {
     position: absolute;
-    top: 29vw;
+    top: 24vw;
     left: 10vw;
     animation: animals 8s 5s linear 1 forwards;
 }
@@ -290,7 +275,7 @@ body * {
 }
 .trees {
     position: absolute;
-    top: 25.5vw;
+    top: 20vw;
     display: flex;
     gap: .5vw 1vw;
     width: 20vw;
@@ -367,7 +352,7 @@ body * {
     animation: opacity 1 2s 20s reverse linear forwards;
 }
 .industries {
-    top: 25vw;
+    top: 20vw;
     width: 100%;
     display: flex;
     align-content: end;
@@ -419,7 +404,7 @@ body * {
     z-index: -1;
     width: 100%;
     position: absolute;
-    top: 7vw;
+    top: 2vw;
     opacity: 0;
     animation: opacity 1 6s 6.5s linear forwards;
 }
@@ -439,7 +424,7 @@ body * {
     transform: translateX(-100vw);
     animation: trucks 1 linear 40s -3s forwards;
     position: absolute;
-    top: 27.5vw;
+    top: 22.5vw;
     display: flex;
     flex-wrap: nowrap;
     background: var(--truck);
@@ -452,7 +437,7 @@ body * {
 }
 .drillings {
     transform: scale(1.2);
-    top: 34vw;
+    top: 28vw;
     display: inline-block;
     margin-left: -5vw;
     opacity: 0;
@@ -501,7 +486,7 @@ body * {
     display: flex;
     flex-direction: row;
     z-index: 9;
-    top: 4vw;
+    top: -1vw;
     width: 100%;
     transform: translate(65vw, 28vw);
 }
@@ -602,16 +587,16 @@ body * {
 .seafloor {
     position: absolute;
     width: 100%;
-    height: 18vw;
-    top: 40vw;
+    height: 11vw;
+    top: 35vw;
     background: var(--desert) repeat center center;
     background-size: 10%;
 }
 .sea {
     position: absolute;
     width: 100%;
-    height: 17vw;
-    top: 40vw;
+    height: 11vw;
+    top: 35vw;
     background: var(--sea-color);
     opacity: 1;
     transform: scaleY(1);
@@ -622,7 +607,7 @@ body * {
     width: 5vw;
     height: 4vw;
     left: 20vw;
-    top: 40vw;
+    top: 34.5vw;
     background: var(--cow) center center no-repeat;
     background-size: contain;
     position: absolute;
@@ -633,7 +618,7 @@ body * {
 .fish {
     width: 4vw;
     height: 3vw;
-    top: 45.5vw;
+    top: 39.5vw;
     left: 50vw;
     position: absolute;
     background: var(--fish) no-repeat center center;
@@ -644,8 +629,8 @@ body * {
 }
 .fishmask {
     width: 40vw;
-    height: 11vw;
-    top: 45vw;
+    height: 6.5vw;
+    top: 39vw;
     position: absolute;
     background: var(--sea-color);
     opacity: 1;
@@ -662,7 +647,7 @@ body * {
     width: .5vw;
     height: .5vw;
     left: 43vw;
-    top: 45.5vw;
+    top: 39.5vw;
     position: absolute;
     opacity: 1;
     z-index: 99999999999999999999;
@@ -694,7 +679,7 @@ body * {
 .doves {
     opacity: 0;
     position: absolute;
-    top: 23vw;
+    top: 18vw;
     left: 5vw;
     animation: doves 3s 5.25S ease-in-out 1 forwards;
 }
@@ -725,7 +710,7 @@ body * {
     animation: dove-right infinite .35s 3.25S linear;
 }
 .family {
-    top: 26vw;
+    top: 21vw;
     right: -8vw;
     width: 25vw;
     height: 10vw;
@@ -844,7 +829,7 @@ body * {
 }
 .seed-section {
     width: 100vw;
-    aspect-ratio: 16/9;
+    height: 100%;
     left: 0;
     top: 0;
     transform: scale(0);
@@ -971,9 +956,8 @@ body * {
     background: linear-gradient(0deg, black 35%, #190038, black 65%), var(--noise) repeat;
     background-size: 25%;
     background-blend-mode: color-burn;
-    width: 100vw;
-    aspect-ratio: 16/9;
-    max-height: 100%;
+    width: 100%;
+    height: 100%;
     opacity: 0;
     animation: opacity .25s 46s 1 linear forwards;
 }
@@ -1047,8 +1031,8 @@ body * {
     bottom: auto;
     left: 0;
     color: white;
-    width: 100vw;
-    aspect-ratio: 16 / 9;
+    width: 100%;
+    height: 100%;
     display: flex;
     justify-content: center;
     overflow: visible;
@@ -1067,16 +1051,7 @@ body * {
 
 /* ANIMATIONS */
 
-@keyframes body {
-    0%{
-        transform: scale(1.01);
-    }
-    100%{
-        transform: scale(1);
-    }
-}
-
-@keyframes canva {
+@keyframes rumble {
     0%{
         transform: translateX(0%);
     }
@@ -1094,17 +1069,6 @@ body * {
     }
     100%{
         transform: translateX(0%);
-    }
-}
-
-@keyframes dawn {
-    0%{
-        filter: brightness(0);
-        background: black;
-    }
-    100%{
-        filter: brightness(1);
-        background: transparent;
     }
 }
 
