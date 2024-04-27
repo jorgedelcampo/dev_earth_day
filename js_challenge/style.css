@@ -395,6 +395,14 @@ footer .container {
         display: inline-block;
     }
 
+    .testimonial, .testimonial .container {
+        padding: 10vw 0 10vw;
+    }
+
+    .testimonial .container {
+        padding: 0;
+    }
+
     .testimonial .container h2 {
         place-self: center;
     }
