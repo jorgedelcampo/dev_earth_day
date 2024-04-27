@@ -74,6 +74,11 @@ body > * {
     content: '\f077';
 }
 
+.events a {
+    color: white;
+    font-weight: bold;
+}
+
 .container {
     width: 80vw;
     margin: auto;
