@@ -240,6 +240,7 @@ body > div h2 {
     width: 100%;
     height: 100%;
     position: absolute;
+    top: 0;
     background: url('https://images.pexels.com/photos/2449543/pexels-photo-2449543.jpeg?auto=compress&cs=tinysrgb&w=1140') no-repeat center center;
     background-size: cover;
     background-blend-mode: multiply;
@@ -395,8 +396,9 @@ footer .container {
         display: inline-block;
     }
 
-    .testimonial, .testimonial .container {
+    .testimonial {
         padding: 0 0 10vw;
+        overflow: hidden;
     }
 
     .testimonial .container {
