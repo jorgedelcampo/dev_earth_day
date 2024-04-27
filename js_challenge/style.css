@@ -348,6 +348,12 @@ footer .container {
         font-size: 10vw;
     }
 
+    header h1::after {
+        width: 100%;
+        border-bottom: 6px solid white;
+        border-right: none;
+    }
+
      header h1::after {
          displayy: none;
      }
