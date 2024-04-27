@@ -46,7 +46,7 @@ body > * {
     color: #F2CB05;
     position: absolute;
     bottom: 4vw;
-    width: 0;
+    width: 100%;
     text-align: center;
     display: block;
     margin: auto;
@@ -57,6 +57,8 @@ body > * {
 .chevron-next::after {
     content: '\f078';
     position: absolute;
+    left: 0;
+    right: 0;
     animation: chevron-next .75s infinite ease-in-out alternate;
 }
 
@@ -365,6 +367,11 @@ footer .container {
         flex-direction: column;
         padding: 4vw;
         height: auto;
+        gap: 8vw
+    }
+
+    section .container > * {
+        padding: 5vw;
     }
 
     section .container > *::before {
