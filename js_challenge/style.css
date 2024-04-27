@@ -350,13 +350,10 @@ footer .container {
 
     header h1::after {
         width: 100%;
-        border-bottom: 6px solid white;
+        border-bottom: 1vw solid white;
         border-right: none;
+        margin-bottom: -2vw;
     }
-
-     header h1::after {
-         displayy: none;
-     }
 
     .chevron-next {
         bottom: 7.5vh;
