@@ -1035,6 +1035,28 @@ p {
     box-shadow: 0 0 1.8vw #ffffff80, 0 0 2.5vw #3262ea;
     animation: rotation 26s 42s linear infinite, scale-earth .5s 46s ease-in-out 1 forwards, opacity .1s 46s linear 1 forwards;
 }
+.earth::before {
+    content: '';
+    width: 0px;
+    height: 25%;
+    border-left: 1px dashed white;
+    position: absolute;
+    margin: auto;
+    left: 50%;
+    bottom: -25%;
+    opacity: .15;
+}
+.earth::after {
+    content: '';
+    width: 0px;
+    height: 25%;
+    border-left: 1px dashed white;
+    position: absolute;
+    margin: auto;
+    left: 50%;
+    top: -25%;
+    opacity: .15;
+}
 .author {
     bottom: auto;
     left: 0;
@@ -1161,10 +1183,10 @@ p {
 
 @keyframes scale-earth {
     0%{
-        transform: scale(50);
+        transform: scale(50) rotate(23.5deg);
     }
     100%{
-        transform: scale(1);
+        transform: scale(1) rotate(23.5deg);
     }
 }
 
