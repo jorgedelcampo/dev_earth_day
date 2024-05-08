@@ -1,14 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Dev Earth Day - Jorge del Campo</title>
-    <link rel="icon" href="https://jorgedelcampo.github.io/dev_earth_day/favicon.png">
+    <link
+      rel="icon"
+      href="https://jorgedelcampo.github.io/dev_earth_day/favicon.png"
+    />
     <style>
       body {
         margin: 0;
-        background: #80B7FF;
+        background: #80b7ff;
       }
       .container {
         display: flex;
@@ -29,14 +32,28 @@
         border-radius: 8px;
       }
       a:hover {
-        background: #FF8C80;
+        background: #ff8c80;
       }
     </style>
-</head>
-<body>
+  </head>
+  <body>
     <div class="container">
-      <a href="/dev_earth_day/css_challenge" target="_blank">CSS Challenge</a>
-      <a href="/dev_earth_day/js_challenge" target="_blank">JS Challenge</a>
+      <a id="css_link" href="/dev_earth_day/css_challenge" target="_blank"
+        >CSS Challenge</a
+      >
+      <a id="js_link" href="/dev_earth_day/js_challenge" target="_blank"
+        >JS Challenge</a
+      >
     </div>
-</body>
+  </body>
+  <script>
+    let host = window.location.hostname;
+    let position = host.search("github.io");
+    if (position == -1) {
+      let cssLink = document.querySelector("#css_link");
+      let jsLink = document.querySelector("#js_link");
+      cssLink.href.replace("/dev_earth_day", "");
+      jsLink.href.replace("/dev_earth_day", "");
+    }
+  </script>
 </html>
