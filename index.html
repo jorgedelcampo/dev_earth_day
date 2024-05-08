@@ -54,8 +54,8 @@
     if (position == -1) {
       let cssLink = document.querySelector("#css_link");
       let jsLink = document.querySelector("#js_link");
-      cssLink.href.replace("/dev_earth_day", "");
-      jsLink.href.replace("/dev_earth_day", "");
+      cssLink.href = cssLink.href.replace("/dev_earth_day", "");
+      jsLink.href = jsLink.href.replace("/dev_earth_day", "");
     }
   </script>
 </html>
