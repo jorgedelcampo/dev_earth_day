@@ -48,7 +48,9 @@
   </body>
   <script>
     let host = window.location.hostname;
+    console.log(host);
     let position = host.search("github.io");
+    console.log(position);
     if (position == -1) {
       let cssLink = document.querySelector("#css_link");
       let jsLink = document.querySelector("#js_link");
